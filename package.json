@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "bwip-js": "^3.4.0",
+    "canvas": "^2.11.2",
+    "etag": "^1.8.1",
+    "express": "^4.18.2",
+    "fresh": "^0.5.2",
+    "jsbarcode": "^3.11.5",
+    "readline-sync": "^1.4.10",
+    "utils-merge": "^1.0.1",
+    "uuid": "^9.0.0"
+  }
+}
