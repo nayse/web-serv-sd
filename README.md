@@ -8,7 +8,6 @@ Servidor retorna como resposta o código de barras/valor em formato JSON para o 
 
 _Disciplina: Sistemas Distribuidos_
 
-Alunos(a): Nayse Fagundes e Gabriel Farias
 
 ## Tema 7: Compra de ticket do Restaurante universitário
 
